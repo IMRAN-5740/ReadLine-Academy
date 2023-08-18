@@ -1,0 +1,70 @@
+﻿@model ReadLineAcademy.Models.EntityModels.Company
+
+@{
+    ViewData["Title"] = "Details";
+}
+<form method="post" asp-action="Upsert" enctype="multipart/form-data">
+    <input asp-for="Id" type="hidden" />
+   
+    <div class="row">
+        <div class="col-10">
+            <div class="border p-3 mt-4 row">
+
+                <div class="col-12 pb-2">
+                    <h3 class="text-primary"> @(Model.Id != 0 ? "Update" : "Create") Company</h3>
+                    <hr />
+                </div>
+                <div class="text-danger" asp-validation-summary="ModelOnly"></div>
+                <div class="mb-3">
+                    <label asp-for="Name"></label>
+                    <input type="text" asp-for="Name" disabled class="form-control" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="StreetAddress"></label>
+                    <input type="text" asp-for="StreetAddress" disabled class="form-control" />
+                    <span asp-validation-for="StreetAddress" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="City"></label>
+                    <input type="text" asp-for="City" disabled class="form-control" />
+                    <span asp-validation-for="City" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="State"></label>
+                    <input type="text" asp-for="State" disabled class="form-control" />
+                    <span asp-validation-for="State" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="PostalCode"></label>
+                    <input type="text" asp-for="PostalCode" disabled class="form-control" />
+                    <span asp-validation-for="PostalCode" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="PhoneNumber"></label>
+                    <input type="text" asp-for="PhoneNumber" disabled class="form-control" />
+                    <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                </div>
+             
+                <div class="col-12">
+                    @if (Model.Id != 0)
+                    {
+                        <a asp-controller="Company" asp-action="Upsert" asp-route-id="@Model.Id" class=" btn btn-info" style="width:150px"><i class="fa-solid fa-arrow-right fa-fade fa-sm"></i>&nbsp; Edit Page</a>
+
+                    }
+                   
+                    <a asp-controller="Company" asp-action="Index" class=" btn btn-info" style="width:150px"><i class="fa-solid fa-arrow-right fa-fade fa-sm"></i>&nbsp; Back to List</a>
+
+                </div>
+            </div>
+        </div>
+       
+
+    </div>
+   
+
+</form>
+@section Scripts
+    {
+    <partial name="_ValidationScriptsPartial"> </partial>
+}

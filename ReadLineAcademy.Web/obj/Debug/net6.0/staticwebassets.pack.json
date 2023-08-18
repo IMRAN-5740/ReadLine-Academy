@@ -1,0 +1,321 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ReadLineAcademy.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ReadLineAcademy.Web.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\Images\\5dde3db384208.jpg",
+      "PackagePath": "staticwebassets\\Images\\5dde3db384208.jpg"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\Images\\ProductImages\\221ee8dd-646b-4d47-af93-bb1bc31d8d10.jpeg",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\221ee8dd-646b-4d47-af93-bb1bc31d8d10.jpeg"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\Images\\ProductImages\\4194b3e6-d5ac-49fc-804a-d2d24a22863d.jpg",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\4194b3e6-d5ac-49fc-804a-d2d24a22863d.jpg"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\Images\\ProductImages\\5994ea78-9e43-45d1-b15d-8d8d5f36cabb.jpeg",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\5994ea78-9e43-45d1-b15d-8d8d5f36cabb.jpeg"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\Images\\ProductImages\\61987cd5-7b1c-4b7a-8a74-be6f4309eaaa.jpg",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\61987cd5-7b1c-4b7a-8a74-be6f4309eaaa.jpg"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\Images\\ProductImages\\7ac9a461-21a6-484f-b3ca-5b68d98e77fb.jpg",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\7ac9a461-21a6-484f-b3ca-5b68d98e77fb.jpg"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\Images\\ProductImages\\afeafea9-f829-49e8-a073-070c23b9ccc8.png",
+      "PackagePath": "staticwebassets\\Images\\ProductImages\\afeafea9-f829-49e8-a073-070c23b9ccc8.png"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\Images\\ReadLine.jpeg",
+      "PackagePath": "staticwebassets\\Images\\ReadLine.jpeg"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\Images\\lawn-leaf.jpeg",
+      "PackagePath": "staticwebassets\\Images\\lawn-leaf.jpeg"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\css\\bootsWatchTheme.css",
+      "PackagePath": "staticwebassets\\css\\bootsWatchTheme.css"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\js\\company.js",
+      "PackagePath": "staticwebassets\\js\\company.js"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\js\\orderFile.js",
+      "PackagePath": "staticwebassets\\js\\orderFile.js"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\js\\productFile.js",
+      "PackagePath": "staticwebassets\\js\\productFile.js"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ReadLineAcademy.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ReadLineAcademy.Web.props",
+      "PackagePath": "build\\ReadLineAcademy.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ReadLineAcademy.Web.props",
+      "PackagePath": "buildMultiTargeting\\ReadLineAcademy.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ReadLineAcademy.Web.props",
+      "PackagePath": "buildTransitive\\ReadLineAcademy.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

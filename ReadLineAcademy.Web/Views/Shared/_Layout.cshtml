@@ -1,0 +1,116 @@
+﻿@using Microsoft.AspNetCore.Http
+@using ReadLineAcademy.Utilities;
+@inject IHttpContextAccessor HttpContextAccessor
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]  ReadLine Academy</title>
+    
+    <link href="~/css/bootswatchtheme.css" rel="stylesheet" />
+    
+    <link href="~/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdn.datatables.net/buttons/2.3.2/css/buttons.dataTables.min.css" type="text/css" />
+   <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+
+    <link rel="stylesheet" href="~/ReadLineAcademy.Web.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css" type="text/css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" type="text/css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.4/css/jquery.dataTables.min.css" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg bg-primary " data-bs-theme="dark">
+            <div class="container-fluid pb-1">
+               @* <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index" style="color:white; font-weight:bold; font-size:22px"><img src="~/Images/Bulky--Book.png" height="100" width="150"><br> BULKY BOOK</a>
+               *@ 
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index" style="color:red;font-weight:bold; font-size:30px"><img src="~/Images/Imran.jpeg" height="100" width="100"></a>
+
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index" style="color:white; font-weight:bold; font-size:22px"> ReadLine Academy</a>
+
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+
+                          @if (User.IsInRole(SD.Role_Admin))
+                        {
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" style='font-size:24px;color:green' href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    <i class="bi bi-gear" style='font-size:20px ;color:violet'></i>CMS
+                                </a>
+                                <ul class="dropdown-menu ">
+                                    <a class="dropdown-item" style='font-size:24px;color:white' asp-area="Admin" asp-controller="Category" asp-action="Index"><i class="fas fa-tags" style="font-size:30px;color:green"></i> Categories</a>
+                                    <a class="dropdown-item" style='font-size:24px;color:white' asp-area="Admin" asp-controller="CoverType" asp-action="Index"><i class='fas fa-sitemap' style='font-size:30px ;color:red'></i> Cover Types</a>
+                                    <a class="dropdown-item" style='font-size:24px;color:white' asp-area="Admin" asp-controller="Product" asp-action="Index"><i class='fas fa-sitemap' style='font-size:30px;color:green'></i> Products</a>
+
+                                    <div class="dropdown-divider"></div>
+                                    <a class="dropdown-item" style='font-size:24px;color:white' asp-area="Admin" asp-controller="Company" asp-action="Index"><i class="fas fa-tags" style="font-size:30px;color:green"></i> Companies</a>
+                                    <div class="dropdown-divider"></div>
+                                    <a class="dropdown-item" style='font-size:24px;color:white' asp-area="Identity" asp-page="/Account/Register" ><i class="fas fa-tags" style="font-size:30px;color:green"></i> Create new User</a>
+
+                                </ul>
+
+                            </li>
+                        }
+                     
+                        
+                        <li class="nav-item">
+                            <a class="nav-link" style='font-size:24px ;font-family:Times New Roman; color:violet' asp-area="Admin" asp-controller="Order" asp-action="Index"> MANAGE ORDER</a>
+                        </li>
+                       
+                            <li class="nav-item">
+                                <a class="nav-link" asp-area="Customer" asp-controller="Cart" asp-action="Index">
+                                   @await Component.InvokeAsync("ShoppingCart")
+                                </a>
+
+                            </li>
+                      
+
+                       
+
+                    </ul>
+                    <partial name="_LoginPartial" />
+
+
+                </div>
+
+              
+            </div>
+        </nav>
+    
+    </header>
+    <div class="container pb-xxl-5" style="min-height: 75vh ; display: flex; flex-direction: column">
+        <main role="main" class="pb-5" >
+          <partial name="_Notification.cshtml"/>
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="footer text-muted bg-primary">
+        <div class="container  text-center" style="color:white"> 
+            &copy; 2023 - ReadLine Academy<br />
+            Developed By<br /> <a href="https://www.facebook.com/imran5740.cse.bsmrstu"> 🧡Mohammad Abdullah Al Imran🧡 </a>
+        </div>
+    </footer>
+
+
+      <script src="https://cdn.datatables.net/buttons/2.3.2/js/buttons.html5.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/2.3.2/js/buttons.print.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.tiny.cloud/1/9hqkf9lq2c1d9gjv3jxx5dmj9xfgg78hccvyzcaa1ayyzgcl/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,12 @@
+E:\ReadLineAcademy\ReadLineAcademy.Models\bin\Debug\net6.0\ReadLineAcademy.Models.deps.json
+E:\ReadLineAcademy\ReadLineAcademy.Models\bin\Debug\net6.0\ReadLineAcademy.Models.dll
+E:\ReadLineAcademy\ReadLineAcademy.Models\bin\Debug\net6.0\ReadLineAcademy.Models.pdb
+E:\ReadLineAcademy\ReadLineAcademy.Models\obj\Debug\net6.0\ReadLineAcademy.Models.csproj.AssemblyReference.cache
+E:\ReadLineAcademy\ReadLineAcademy.Models\obj\Debug\net6.0\ReadLineAcademy.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\ReadLineAcademy\ReadLineAcademy.Models\obj\Debug\net6.0\ReadLineAcademy.Models.AssemblyInfoInputs.cache
+E:\ReadLineAcademy\ReadLineAcademy.Models\obj\Debug\net6.0\ReadLineAcademy.Models.AssemblyInfo.cs
+E:\ReadLineAcademy\ReadLineAcademy.Models\obj\Debug\net6.0\ReadLineAcademy.Models.csproj.CoreCompileInputs.cache
+E:\ReadLineAcademy\ReadLineAcademy.Models\obj\Debug\net6.0\ReadLineAcademy.Models.dll
+E:\ReadLineAcademy\ReadLineAcademy.Models\obj\Debug\net6.0\refint\ReadLineAcademy.Models.dll
+E:\ReadLineAcademy\ReadLineAcademy.Models\obj\Debug\net6.0\ReadLineAcademy.Models.pdb
+E:\ReadLineAcademy\ReadLineAcademy.Models\obj\Debug\net6.0\ref\ReadLineAcademy.Models.dll

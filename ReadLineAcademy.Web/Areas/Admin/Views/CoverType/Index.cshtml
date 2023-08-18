@@ -1,0 +1,51 @@
+﻿@model IEnumerable<CoverType>
+
+@{
+    ViewData["Title"] = "Index";
+    int serialNo = 1;
+}
+
+
+<div class="container p-3">
+
+    <div class=" row pt-4">
+        <div class="col-6 text-end">
+            <h3 class="text-primary">CoverType List</h3>
+        </div>
+        <div class="col-6 text-end">
+            <a asp-asp-controller="Category" asp-action="Create" class="btn btn-outline-success" >
+                <i class="bi bi-plus-circle"></i> &nbsp; Create New CoverType
+            </a>
+        </div>
+
+    </div>
+    <br />
+<table class="table table-bordered table-striped" style="width:100%">
+    <thead class="text-center">
+        <tr>
+           <th>
+               Serial
+           </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+          
+          
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody class="text-center">
+@foreach (var item in Model) {
+        <tr>
+           <td>@(serialNo++)</td>
+            <td width="50%">
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+               
+          
+                <partial name="_ButtonPartial" model="item.Id" />
+        </tr>
+}
+    </tbody>
+</table>
+</div>

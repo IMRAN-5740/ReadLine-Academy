@@ -1,0 +1,15 @@
+E:\ReadLineAcademy\ReadLineAcademy.Repositories.Absractions\bin\Debug\net6.0\ReadLineAcademy.Repositories.Absractions.deps.json
+E:\ReadLineAcademy\ReadLineAcademy.Repositories.Absractions\bin\Debug\net6.0\ReadLineAcademy.Repositories.Absractions.dll
+E:\ReadLineAcademy\ReadLineAcademy.Repositories.Absractions\bin\Debug\net6.0\ReadLineAcademy.Repositories.Absractions.pdb
+E:\ReadLineAcademy\ReadLineAcademy.Repositories.Absractions\bin\Debug\net6.0\ReadLineAcademy.Models.dll
+E:\ReadLineAcademy\ReadLineAcademy.Repositories.Absractions\bin\Debug\net6.0\ReadLineAcademy.Models.pdb
+E:\ReadLineAcademy\ReadLineAcademy.Repositories.Absractions\obj\Debug\net6.0\ReadLineAcademy.Repositories.Absractions.csproj.AssemblyReference.cache
+E:\ReadLineAcademy\ReadLineAcademy.Repositories.Absractions\obj\Debug\net6.0\ReadLineAcademy.Repositories.Absractions.GeneratedMSBuildEditorConfig.editorconfig
+E:\ReadLineAcademy\ReadLineAcademy.Repositories.Absractions\obj\Debug\net6.0\ReadLineAcademy.Repositories.Absractions.AssemblyInfoInputs.cache
+E:\ReadLineAcademy\ReadLineAcademy.Repositories.Absractions\obj\Debug\net6.0\ReadLineAcademy.Repositories.Absractions.AssemblyInfo.cs
+E:\ReadLineAcademy\ReadLineAcademy.Repositories.Absractions\obj\Debug\net6.0\ReadLineAcademy.Repositories.Absractions.csproj.CoreCompileInputs.cache
+E:\ReadLineAcademy\ReadLineAcademy.Repositories.Absractions\obj\Debug\net6.0\ReadLineAcademy.Repositories.Absractions.csproj.CopyComplete
+E:\ReadLineAcademy\ReadLineAcademy.Repositories.Absractions\obj\Debug\net6.0\ReadLineAcademy.Repositories.Absractions.dll
+E:\ReadLineAcademy\ReadLineAcademy.Repositories.Absractions\obj\Debug\net6.0\refint\ReadLineAcademy.Repositories.Absractions.dll
+E:\ReadLineAcademy\ReadLineAcademy.Repositories.Absractions\obj\Debug\net6.0\ReadLineAcademy.Repositories.Absractions.pdb
+E:\ReadLineAcademy\ReadLineAcademy.Repositories.Absractions\obj\Debug\net6.0\ref\ReadLineAcademy.Repositories.Absractions.dll
