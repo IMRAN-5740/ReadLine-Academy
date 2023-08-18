@@ -263,8 +263,6 @@ E:\ReadLineAcademy\ReadLineAcademy.Web\bin\Debug\net6.0\refs\System.ServiceModel
 E:\ReadLineAcademy\ReadLineAcademy.Web\bin\Debug\net6.0\refs\System.ServiceProcess.dll
 E:\ReadLineAcademy\ReadLineAcademy.Web\bin\Debug\net6.0\refs\System.Text.Encoding.dll
 E:\ReadLineAcademy\ReadLineAcademy.Web\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
-E:\ReadLineAcademy\ReadLineAcademy.Web\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
-E:\ReadLineAcademy\ReadLineAcademy.Web\bin\Debug\net6.0\refs\System.Text.Json.dll
 E:\ReadLineAcademy\ReadLineAcademy.Web\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
 E:\ReadLineAcademy\ReadLineAcademy.Web\bin\Debug\net6.0\refs\System.Threading.Channels.dll
 E:\ReadLineAcademy\ReadLineAcademy.Web\bin\Debug\net6.0\refs\System.Threading.dll
@@ -569,3 +567,9 @@ E:\ReadLineAcademy\ReadLineAcademy.Web\obj\Debug\net6.0\refint\ReadLineAcademy.W
 E:\ReadLineAcademy\ReadLineAcademy.Web\obj\Debug\net6.0\ReadLineAcademy.Web.pdb
 E:\ReadLineAcademy\ReadLineAcademy.Web\obj\Debug\net6.0\ReadLineAcademy.Web.genruntimeconfig.cache
 E:\ReadLineAcademy\ReadLineAcademy.Web\obj\Debug\net6.0\ref\ReadLineAcademy.Web.dll
+E:\ReadLineAcademy\ReadLineAcademy.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ReadLineAcademy\ReadLineAcademy.Web\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\ReadLineAcademy\ReadLineAcademy.Web\bin\Debug\net6.0\System.CodeDom.dll
+E:\ReadLineAcademy\ReadLineAcademy.Web\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\ReadLineAcademy\ReadLineAcademy.Web\bin\Debug\net6.0\System.Text.Json.dll
+E:\ReadLineAcademy\ReadLineAcademy.Web\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll

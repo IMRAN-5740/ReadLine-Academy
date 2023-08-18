@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "U4ilck3AlZbnwdNpx7YdExxHCMTuhH12073FhMWY4hE=",
+  "Hash": "mHJ0eWh3ZsORL9+0WiI7x2pH1wP51flbwVjH1+ihL8E=",
   "Source": "ReadLineAcademy.Web",
   "BasePath": "_content/ReadLineAcademy.Web",
   "Mode": "Default",
@@ -1154,6 +1154,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\5dde3db384208.jpg"
+    },
+    {
+      "Identity": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\Images\\Imran.jpeg",
+      "SourceId": "ReadLineAcademy.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\",
+      "BasePath": "_content/ReadLineAcademy.Web",
+      "RelativePath": "Images/Imran.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Imran.jpeg"
     },
     {
       "Identity": "E:\\ReadLineAcademy\\ReadLineAcademy.Web\\wwwroot\\Images\\lawn-leaf.jpeg",
