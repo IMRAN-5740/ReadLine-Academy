@@ -160,7 +160,6 @@ E:\ReadLineAcademy\ReadLineAcademy.Databases\bin\Debug\net6.0\refs\System.dll
 E:\ReadLineAcademy\ReadLineAcademy.Databases\bin\Debug\net6.0\refs\System.Drawing.dll
 E:\ReadLineAcademy\ReadLineAcademy.Databases\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
 E:\ReadLineAcademy\ReadLineAcademy.Databases\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
-E:\ReadLineAcademy\ReadLineAcademy.Databases\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
 E:\ReadLineAcademy\ReadLineAcademy.Databases\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
 E:\ReadLineAcademy\ReadLineAcademy.Databases\bin\Debug\net6.0\refs\System.Globalization.dll
 E:\ReadLineAcademy\ReadLineAcademy.Databases\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
@@ -249,7 +248,6 @@ E:\ReadLineAcademy\ReadLineAcademy.Databases\bin\Debug\net6.0\refs\System.Securi
 E:\ReadLineAcademy\ReadLineAcademy.Databases\bin\Debug\net6.0\refs\System.Security.SecureString.dll
 E:\ReadLineAcademy\ReadLineAcademy.Databases\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
 E:\ReadLineAcademy\ReadLineAcademy.Databases\bin\Debug\net6.0\refs\System.ServiceProcess.dll
-E:\ReadLineAcademy\ReadLineAcademy.Databases\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
 E:\ReadLineAcademy\ReadLineAcademy.Databases\bin\Debug\net6.0\refs\System.Text.Encoding.dll
 E:\ReadLineAcademy\ReadLineAcademy.Databases\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
 E:\ReadLineAcademy\ReadLineAcademy.Databases\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
@@ -292,3 +290,5 @@ E:\ReadLineAcademy\ReadLineAcademy.Databases\obj\Debug\net6.0\refint\ReadLineAca
 E:\ReadLineAcademy\ReadLineAcademy.Databases\obj\Debug\net6.0\ReadLineAcademy.Databases.pdb
 E:\ReadLineAcademy\ReadLineAcademy.Databases\obj\Debug\net6.0\ReadLineAcademy.Databases.genruntimeconfig.cache
 E:\ReadLineAcademy\ReadLineAcademy.Databases\obj\Debug\net6.0\ref\ReadLineAcademy.Databases.dll
+E:\ReadLineAcademy\ReadLineAcademy.Databases\bin\Debug\net6.0\ReadLineAcademy.Utilities.dll
+E:\ReadLineAcademy\ReadLineAcademy.Databases\bin\Debug\net6.0\ReadLineAcademy.Utilities.pdb

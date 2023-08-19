@@ -35,6 +35,9 @@
             "projectReferences": {
               "E:\\ReadLineAcademy\\ReadLineAcademy.Models\\ReadLineAcademy.Models.csproj": {
                 "projectPath": "E:\\ReadLineAcademy\\ReadLineAcademy.Models\\ReadLineAcademy.Models.csproj"
+              },
+              "E:\\ReadLineAcademy\\ReadLineAcademy.Utilities\\ReadLineAcademy.Utilities.csproj": {
+                "projectPath": "E:\\ReadLineAcademy\\ReadLineAcademy.Utilities\\ReadLineAcademy.Utilities.csproj"
               }
             }
           }

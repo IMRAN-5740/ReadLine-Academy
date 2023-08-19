@@ -3678,7 +3678,8 @@
           "Microsoft.EntityFrameworkCore": "7.0.10",
           "Microsoft.EntityFrameworkCore.Relational": "7.0.10",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.10",
-          "ReadLineAcademy.Models": "1.0.0"
+          "ReadLineAcademy.Models": "1.0.0",
+          "ReadLineAcademy.Utilities": "1.0.0"
         },
         "runtime": {
           "ReadLineAcademy.Databases.dll": {}

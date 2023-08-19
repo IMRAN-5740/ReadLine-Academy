@@ -24,6 +24,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ReadLineAcademy.Models\ReadLineAcademy.Models.csproj" />
+    <ProjectReference Include="..\ReadLineAcademy.Utilities\ReadLineAcademy.Utilities.csproj" />
   </ItemGroup>
 
 </Project>
