@@ -5,6 +5,7 @@ using ReadLineAcademy.Utilities;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using ReadLineAcademy.Models.EntityModels;
+using Org.BouncyCastle.Crypto;
 
 namespace ReadLineAcademy.Web.Areas.Admin.Controllers
 {
@@ -44,6 +45,7 @@ namespace ReadLineAcademy.Web.Areas.Admin.Controllers
                 return RedirectToAction("Index");
 
             }
+           
             return View(createModel);
         }
         public IActionResult Edit(int id)
